@@ -1,6 +1,7 @@
 ---
 title: CV
 permalink: https://dajanaxhani.com/assets/pdf/cv.pdf
-nav: true
+nav: false
+published: false
 nav_order: 2
 ---

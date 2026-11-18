@@ -5,6 +5,8 @@ title: research
 description:
 nav: true
 nav_order: 1
+_styles: >
+  .post-header { display: none; }
 ---
 
 <!-- _pages/publications.md -->
